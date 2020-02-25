@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import { employees, departments } from "../data/employees.js"
-import { EmpCard } from "./EmpCard.js"
+import { EmpCard } from "./Cards.js"
 
 export const SearchResults = () => {
 

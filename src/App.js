@@ -1,6 +1,6 @@
 import React from 'react';
-import { Header } from "./components/Header.js"
-import { SearchResults } from "./components/SearchResults.js"
+import { Header } from "./components/Header"
+import { SearchResults } from "./components/Search"
 
 
 
